@@ -11,6 +11,7 @@
  * - createGreeting(firstName, lastName, timeOfDay): should use the other two functions and return the final greeting.
  */
 
+// Function Declarations
 function formatName(firstName, lastName) {
     return `${firstName} ${lastName}`;
 }
